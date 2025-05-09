@@ -12,7 +12,6 @@
 
 - 📃 Veja meu <a href="https://drive.google.com/file/d/1L_Lqzhf3_-xMEJOZ0dBHZGc5PunMw6Yp/view?usp=sharing" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/yurito/" target="_blank">Linkedin</a> para mais informações
 
-<!-- Se você adicionou o arquivo SVG conforme instruído acima, esta imagem vai funcionar -->
 ![Status](https://raw.githubusercontent.com/yurito/yurito/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yurito&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yurito&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
