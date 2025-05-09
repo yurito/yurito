@@ -1,4 +1,4 @@
-# Olá! Eu sou Yuri Farias vulgo Yurito 👋
+# Olá! Eu sou Yuri Farias vulgo _*Deus da programação!*_ 👋
 
 🔭 Hoje trabalho como **Líder Tecnológico**  
 🌱 Especialista em **JavaScript (Angular, React, Vue), React Native e Backend (Node.js, .NET, Java)**  
@@ -9,7 +9,7 @@
 
 🚀 **Focado em entregar soluções escaláveis e de alta performance!**  
 
-*Se quiser ajustar algo ou adicionar mais detalhes, é só me avisar! 😊*
+
 - 📃 Veja meu <a href="https://drive.google.com/file/d/1L_Lqzhf3_-xMEJOZ0dBHZGc5PunMw6Yp/view?usp=sharing" target="_blank">Currículo</a> ou meu <a href="https://www.linkedin.com/in/yurito/" target="_blank">Linkedin</a> para mais informações
 
 <!-- Se você adicionou o arquivo SVG conforme instruído acima, esta imagem vai funcionar -->
