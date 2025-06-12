@@ -4,8 +4,10 @@
 🌱 Especialista em **JavaScript (Angular, React, Vue), React Native e Backend (Node.js, .NET, Java)**  
 👯‍♂️ Experiência em **Arquitetura de Nuvem (AWS, Azure, GCP), Microsserviços e Kubernetes**  
 💬 Apaixonado por **mentoria de desenvolvedores e inovação tecnológica**  
-📫 Contate-me pelo email: **[E-mail Pessoal](yuri.root+git@gmail.com)**  
+📫 Contate-me pelo email: **yuri.root+git@gmail.com**  
 🔗 Mais sobre mim: **[yurito.me/resume](https://yurito.me/resume)**  
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_yurito/)](https://www.instagram.com/_yurito/)
 
 🚀 **Focado em entregar soluções escaláveis e de alta performance!**  
 
